@@ -14,14 +14,14 @@ Tools:
 - qgis to visualize the shapefile
 
 Dependencies:
--lib Igraph - C
--PostgreSQL 9.5+
--PostGis 2.2
--Python 3
- -numpy
- -configparser
- -os
- -sys
- -psycopg2
- -subprocess
+- lib Igraph - C
+- PostgreSQL 9.5+
+- PostGis 2.2
+- Python 3
+ - numpy
+ - configparser
+ - os
+ - sys
+ - psycopg2
+ - subprocess
  
