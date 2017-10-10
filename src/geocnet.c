@@ -1,3 +1,5 @@
+//Developed by Jessica Domingues (jessica.dominguess@gmail.com)
+
 #include <igraph.h>
 #include "string.h"
 #include <stdio.h>
