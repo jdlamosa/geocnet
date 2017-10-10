@@ -1,3 +1,5 @@
+#Developed by Jessica Domingues (jessica.dominguess@gmail.com)
+
 import numpy
 import configparser
 import os
