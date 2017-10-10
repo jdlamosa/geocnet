@@ -1,0 +1,10 @@
+all: clean
+	@rm -f ../run/*.txt
+	@gcc Limiar.c -I/opt/igraphusr/include/igraph -L/opt/igraphusr/lib -ligraph -c
+	@gcc LimiarApp.c Limiar.o -I/opt/igraphusr/include/igraph -L/opt/igraphusr/lib -ligraph -o ../run/tes.x
+
+dbg:
+	@gcc -g Limiar.c -I/opt/igraphusr/include/igraph -L/opt/igraphusr/lib -ligraph -c
+	@gcc -g LimiarApp.c Limiar.o -I/opt/igraphusr/include/igraph -L/opt/igraphusr/lib -ligraph -o ../run/tes.x
+clean:
+	@rm -f *.o *.x
