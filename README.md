@@ -17,11 +17,5 @@ Dependencies:
 - lib Igraph - C
 - PostgreSQL 9.5+
 - PostGis 2.2
-- Python 3
- - numpy
- - configparser
- - os
- - sys
- - psycopg2
- - subprocess
+- Python 3 (numpy, configparser, os, sys, psycopg2, subprocess)
  
