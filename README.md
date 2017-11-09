@@ -1,9 +1,7 @@
 # geocnet
 
 Development :
-- Developed in C/C++
-- Time window - data agregation
-- 3 dimensional matrix, with origin, destination and time
+- Developed in C
 - topological properties:
   - Degree, Clustering Coefficient, diameter and betweenness
 
