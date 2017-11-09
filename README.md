@@ -1,3 +1,5 @@
+Do you want to see your geolocalized complex network with topological properties? Now you can! Using the geocnet tool you can visualize your complex Networks as a shapefile of nodes and a shapefile of edges in a GIS. 
+
 # geocnet
 
 Development :
