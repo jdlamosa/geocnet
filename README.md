@@ -19,8 +19,7 @@ Dependencies:
 - PostGis 2.2
 - Python 3 (numpy, configparser, os, sys, psycopg2, subprocess)
 
-Installation Guide in portuguese and english: 
-- https://docs.google.com/document/d/1SoRU4vb75tS_yNZXZWe_uC28VIWQGbFv3kmXCIl5Cjk/edit?usp=sharing
+Installation Guide in portuguese and english: geoCnet.pdf
 
 INPUT: 
 - A shapefile of the nodes with a mandatory column of type integer named id, representing the id's of the nodes. All the characteristics of the polygons/points will be associated to their respective points as attributes. To create a shapefile for the nodes - using any GIS software, it is necessary to create a point type shapefile for the nodes, with the nodes at their given position.
